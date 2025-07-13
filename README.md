@@ -87,5 +87,5 @@ This project analyzes sales, profit, and operational data for a Superstore busin
 
 ### Executive Summary
 
-![Executive Summary](assets/screenshots/executive_summary.png)
+![Executive Summary](retail-sales-kpi/screenshots/executive_summary.png)
 
