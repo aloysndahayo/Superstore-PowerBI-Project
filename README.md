@@ -83,4 +83,9 @@ This project analyzes sales, profit, and operational data for a Superstore busin
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/YourUsername/Superstore-PowerBI-Project.git
-/Superstore-PowerBI-Project/assets/screenshots/executive_summary.png
+## 🖼️ Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](assets/screenshots/executive_summary.png)
+
