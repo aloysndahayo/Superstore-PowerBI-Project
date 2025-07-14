@@ -7,7 +7,7 @@ This project analyzes sales, profit, and operational data for a Superstore busin
 
 ---
 
-## 📁 Dataset..
+## 📁 Dataset
 
 **Source:** Internal  
 **File:** `super-store-data.xlsx`  
